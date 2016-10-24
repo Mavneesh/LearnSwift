@@ -14,5 +14,53 @@
 		<key>class</key>
 		<string>UIButtonViewController</string>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>UIActivity</string>
+		<key>class</key>
+		<string>UIActivityViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UIDatePicker</string>
+		<key>class</key>
+		<string>UIDatePickerViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UICollectionView</string>
+		<key>class</key>
+		<string>UICollectionViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UIDocument</string>
+		<key>class</key>
+		<string>UIDocumentViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UIImage</string>
+		<key>class</key>
+		<string>UIImageViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UIPageControl</string>
+		<key>class</key>
+		<string>UIPageControlViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UITextField/View</string>
+		<key>class</key>
+		<string>UITextFieldViewController</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UITabBar</string>
+		<key>class</key>
+		<string>UITabBarViewController</string>
+	</dict>
 </array>
 </plist>

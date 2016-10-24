@@ -69,8 +69,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
                 let pushViewController = UIButtonViewController(nibName:nibname, bundle: nil);
                 self.navigationController?.pushViewController(pushViewController, animated:true);
         default:
-                let pushViewController = UILabelViewController(nibName:nibname, bundle: nil);
-                self.navigationController?.pushViewController(pushViewController, animated:true);
+            assert(false,"Please add viewController as added for UILabelViewController and UIButtonViewController");
         }
     }
 
