@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98849B64C80F18405F0909405006C75C91A6D6E0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "cb2076a9-eda5-40cb-a63e-48eba4158319++3190" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "98849B64C80F18405F0909405006C75C91A6D6E0" : 0,
     "cb2076a9-eda5-40cb-a63e-48eba4158319++3190" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3A3A2EB6-0583-49AD-964D-EB561FCDE4B3",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "98849B64C80F18405F0909405006C75C91A6D6E0" : "LearnSwift\/",
     "cb2076a9-eda5-40cb-a63e-48eba4158319++3190" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Learn",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Learn.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mavneesh\/LearnSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98849B64C80F18405F0909405006C75C91A6D6E0"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.foxitsoftware.cn\/svn\/mobile",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
